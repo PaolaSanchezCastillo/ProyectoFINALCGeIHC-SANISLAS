@@ -1,0 +1,252 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: El directorio intermedio (Debug\) contiene archivos compartidos de otro proyecto (ProyectoFinal.vcxproj). Esto puede dar lugar a un comportamiento incorrecto de limpieza y recompilación.
+  Box.cpp
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\headers\abstractmodel.h(53): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\headers\abstractmodel.h(54): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\headers\abstractmodel.h(55): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\headers\abstractmodel.h(56): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\headers\abstractmodel.h(57): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\headers\abstractmodel.h(58): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+  Cylinder.cpp
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\headers\abstractmodel.h(53): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\headers\abstractmodel.h(54): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\headers\abstractmodel.h(55): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\headers\abstractmodel.h(56): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\headers\abstractmodel.h(57): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\headers\abstractmodel.h(58): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\cylinder.cpp(33): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\cylinder.cpp(34): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\cylinder.cpp(44): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\cylinder.cpp(45): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+  FirstPersonCamera.cpp
+  main.cpp
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\headers\abstractmodel.h(53): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\headers\abstractmodel.h(54): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\headers\abstractmodel.h(55): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\headers\abstractmodel.h(56): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\headers\abstractmodel.h(57): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\headers\abstractmodel.h(58): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\main.cpp(1193): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\main.cpp(1194): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\main.cpp(1195): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\main.cpp(1196): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\main.cpp(1225): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\main.cpp(1227): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\main.cpp(1229): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\main.cpp(1231): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\main.cpp(1233): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\main.cpp(1233): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\main.cpp(1241): warning C4305: '+=': truncamiento de 'double' a 'float'
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\main.cpp(1243): warning C4305: '-=': truncamiento de 'double' a 'float'
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\main.cpp(1246): warning C4305: '+=': truncamiento de 'double' a 'float'
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\main.cpp(1249): warning C4305: '-=': truncamiento de 'double' a 'float'
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\main.cpp(1251): warning C4305: '+=': truncamiento de 'double' a 'float'
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\main.cpp(1253): warning C4305: '+=': truncamiento de 'double' a 'float'
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\main.cpp(1256): warning C4305: '=': truncamiento de 'double' a 'float'
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\main.cpp(1258): warning C4305: '=': truncamiento de 'double' a 'float'
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\main.cpp(1260): warning C4305: '=': truncamiento de 'double' a 'float'
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\main.cpp(1262): warning C4305: '=': truncamiento de 'double' a 'float'
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\main.cpp(1380): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\main.cpp(1381): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\main.cpp(1383): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\main.cpp(1384): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\main.cpp(1406): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\main.cpp(1407): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\main.cpp(1417): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\main.cpp(1418): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\main.cpp(1426): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\main.cpp(1427): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\main.cpp(1436): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\main.cpp(1437): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\main.cpp(1444): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\main.cpp(1445): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\main.cpp(2034): warning C4305: '+=': truncamiento de 'double' a 'float'
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\main.cpp(2051): warning C4305: '+=': truncamiento de 'double' a 'float'
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\main.cpp(2060): warning C4305: '+=': truncamiento de 'double' a 'float'
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\main.cpp(2079): warning C4305: '+=': truncamiento de 'double' a 'float'
+  Mesh.cpp
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\headers\abstractmodel.h(53): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\headers\abstractmodel.h(54): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\headers\abstractmodel.h(55): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\headers\abstractmodel.h(56): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\headers\abstractmodel.h(57): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\headers\abstractmodel.h(58): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+  Model.cpp
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\headers\abstractmodel.h(53): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\headers\abstractmodel.h(54): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\headers\abstractmodel.h(55): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\headers\abstractmodel.h(56): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\headers\abstractmodel.h(57): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\headers\abstractmodel.h(58): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\model.cpp(16): warning C4018: '<': no coinciden signed/unsigned
+  Shader.cpp
+  Sphere.cpp
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\headers\abstractmodel.h(53): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\headers\abstractmodel.h(54): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\headers\abstractmodel.h(55): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\headers\abstractmodel.h(56): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\headers\abstractmodel.h(57): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\headers\abstractmodel.h(58): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\sphere.cpp(8): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\paolaelizabeth\desktop\proyecto-grafica\proyectofinalcgeihc-sanislas\proyectofinal-2020-1\project1\src\sphere.cpp(12): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+  Texture.cpp
+  TimeManager.cpp
+  Generando código...
+glfw3.lib(context.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(context.obj)' o en 'C:\Users\PaolaElizabeth\Desktop\Proyecto-Grafica\ProyectoFINALCGeIHC-SANISLAS\ProyectoFinal-2020-1\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(init.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(init.obj)' o en 'C:\Users\PaolaElizabeth\Desktop\Proyecto-Grafica\ProyectoFINALCGeIHC-SANISLAS\ProyectoFinal-2020-1\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(input.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(input.obj)' o en 'C:\Users\PaolaElizabeth\Desktop\Proyecto-Grafica\ProyectoFINALCGeIHC-SANISLAS\ProyectoFinal-2020-1\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(monitor.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(monitor.obj)' o en 'C:\Users\PaolaElizabeth\Desktop\Proyecto-Grafica\ProyectoFINALCGeIHC-SANISLAS\ProyectoFinal-2020-1\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(vulkan.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(vulkan.obj)' o en 'C:\Users\PaolaElizabeth\Desktop\Proyecto-Grafica\ProyectoFINALCGeIHC-SANISLAS\ProyectoFinal-2020-1\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(window.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(window.obj)' o en 'C:\Users\PaolaElizabeth\Desktop\Proyecto-Grafica\ProyectoFINALCGeIHC-SANISLAS\ProyectoFinal-2020-1\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(win32_init.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(win32_init.obj)' o en 'C:\Users\PaolaElizabeth\Desktop\Proyecto-Grafica\ProyectoFINALCGeIHC-SANISLAS\ProyectoFinal-2020-1\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(win32_joystick.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(win32_joystick.obj)' o en 'C:\Users\PaolaElizabeth\Desktop\Proyecto-Grafica\ProyectoFINALCGeIHC-SANISLAS\ProyectoFinal-2020-1\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(win32_monitor.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(win32_monitor.obj)' o en 'C:\Users\PaolaElizabeth\Desktop\Proyecto-Grafica\ProyectoFINALCGeIHC-SANISLAS\ProyectoFinal-2020-1\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(win32_time.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(win32_time.obj)' o en 'C:\Users\PaolaElizabeth\Desktop\Proyecto-Grafica\ProyectoFINALCGeIHC-SANISLAS\ProyectoFinal-2020-1\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(win32_tls.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(win32_tls.obj)' o en 'C:\Users\PaolaElizabeth\Desktop\Proyecto-Grafica\ProyectoFINALCGeIHC-SANISLAS\ProyectoFinal-2020-1\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(win32_window.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(win32_window.obj)' o en 'C:\Users\PaolaElizabeth\Desktop\Proyecto-Grafica\ProyectoFINALCGeIHC-SANISLAS\ProyectoFinal-2020-1\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(wgl_context.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(wgl_context.obj)' o en 'C:\Users\PaolaElizabeth\Desktop\Proyecto-Grafica\ProyectoFINALCGeIHC-SANISLAS\ProyectoFinal-2020-1\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(egl_context.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(egl_context.obj)' o en 'C:\Users\PaolaElizabeth\Desktop\Proyecto-Grafica\ProyectoFINALCGeIHC-SANISLAS\ProyectoFinal-2020-1\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+  Project1.vcxproj -> C:\Users\PaolaElizabeth\Desktop\Proyecto-Grafica\ProyectoFINALCGeIHC-SANISLAS\ProyectoFinal-2020-1\Debug\Project1.exe
